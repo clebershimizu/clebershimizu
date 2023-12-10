@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+LET HIM BE
+LET HIM FLY
+LET HIM DO HIS AWESOME THING
 -->
+
+I'm a software engineer from Curitiba, Brazil.
+Most of my projects use JavaScript, with Node, React, Next. Most of my projects are for private companies and are not in my personal github.
+I also have a huge interest in Data Science and Machine Learning, and my new personal projects will be around this.
